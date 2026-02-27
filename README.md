@@ -1,22 +1,22 @@
 # Student Management System Plus
-## Object Oriented Programming Using Java
-## Mid-Semester Individual Assignment
+Object Oriented Programming Using Java
+Mid-Semester Individual Assignment
 
 ---
 ## JDK Version Used
 ---
-## JDK 21 (LTS)
+JDK 21 (LTS)
 
 ---
 ## JavaFX SDK Version Used
 ---
-## JavaFX SDK 25.0.2
+JavaFX SDK 25.0.2
 
 ---
 ## Required VM Options (Windows)
 ---
-## Add the following VM options in IntelliJ:
-## Run → Edit Configurations → VM Options
+Add the following VM options in IntelliJ:
+Run → Edit Configurations → VM Options
 
 --module-path "C:\javafx\javafx-sdk-25.0.2\lib" --add-modules javafx.controls,javafx.fxml
 
