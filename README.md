@@ -3,15 +3,18 @@ Object Oriented Programming Using Java
 
 Mid-Semester Individual Assignment
 
+
 ---
 ## JDK Version Used
 ---
 JDK 21 (LTS)
 
+
 ---
 ## JavaFX SDK Version Used
 ---
 JavaFX SDK 25.0.2
+
 
 ---
 ## Required VM Options (Windows)
@@ -21,6 +24,7 @@ Run → Edit Configurations → VM Options
 
 --module-path "C:\javafx\javafx-sdk-25.0.2\lib" --add-modules javafx.controls,javafx.fxml
 
+
 ---
 ## Important Notes
 ---
@@ -28,6 +32,7 @@ Run → Edit Configurations → VM Options
 2. Ensure the JavaFX SDK path matches your installation directory.
 3. If JavaFX is installed in a different location, update the path accordingly.
 4. The application is designed to run offline on Windows.
+
 
 ---
 ## Steps to Run
@@ -37,6 +42,7 @@ Run → Edit Configurations → VM Options
 3. Add the VM options above.
 4. Run the Main class.
 
+
 ---
 ## Repository Structure
 ---
@@ -45,11 +51,13 @@ Run → Edit Configurations → VM Options
 3. data → Database and exports
 4. README.md → Project documentation
 
+
 ---
 ## Submission Details
 ---
 Submission Deadline: 23 February 2026
 Presentation Date: 3 March 2026
+
 
 ---
 ## Author
