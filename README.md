@@ -55,13 +55,13 @@ Run → Edit Configurations → VM Options
 ---
 ## Submission Details
 ---
-Submission Deadline: 23 February 2026
-Presentation Date: 3 March 2026
+.Submission Deadline: 23 February 2026
+.Presentation Date: 3 March 2026
 
 
 ---
 ## Author
 ---
-Name: Jeffrey Aidoo
-Index Number: 01220327B
-Course: Object Oriented Programming 
+.Name: Jeffrey Aidoo
+.Index Number: 01220327B
+.Course: Object Oriented Programming 
