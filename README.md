@@ -51,6 +51,11 @@ Run → Edit Configurations → VM Options
 3. data → Database and exports
 4. README.md → Project documentation
 
+---
+## User Interface
+---
+<img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/9191e8bb-ff9a-406c-9996-ab486e382d31" />
+
 
 ---
 ## Submission Details
